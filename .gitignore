@@ -1,7 +1,5 @@
-/*.o
+*.o
 
-/.*
-
-/*.app
-/*.user
+*.app/
+Robotics2012.pro.user
 
