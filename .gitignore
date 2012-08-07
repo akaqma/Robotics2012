@@ -1,5 +1,10 @@
 *.o
 
-*.app/
+*.app
+*.app/*
+
 Robotics2012.pro.user
+*.pro.user
+
+.*
 
