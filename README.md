@@ -3,5 +3,5 @@ Robotics2012
 
 ロボティクス概論１の課題で作成したプログラム
 
-動作を確認した環境：Mac OSX
-依存ライブラリ：OpenGL, Qt
+-動作を確認した環境：Mac OSX
+-依存ライブラリ：OpenGL, Qt
